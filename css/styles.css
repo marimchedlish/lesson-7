@@ -185,11 +185,13 @@ h1 {
 .block-title {
     text-align: center;
     font-family: lato;
+    font-weight: bold;
 }
 
 .block-text {
     text-align: center;
     font-family: lato;
+    padding: 0px 10px 0px 10px;
 }
 
 .button-div {
