@@ -149,6 +149,34 @@ h1 {
     color: white;
 }
 
+.block:nth-child(2) {
+    background-color: #41EAE3;
+}
+
+.block:nth-child(3) {
+    background-color: #69529F;
+}
+
+
+.block1 {
+    background-color: #4386D2;
+    width: 280px;
+    height: 370px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+
+.block1:nth-child(2) {
+    background-color: #A5A2F6;
+}
+
+.block1:nth-child(3) {
+    background-color: #FF8088;
+}
+
 .block-img {
     width: 80px;
     margin-top: 30px;
@@ -196,3 +224,4 @@ h1 {
 p {
     font-family: lato;
 }
+
