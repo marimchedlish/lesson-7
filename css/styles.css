@@ -198,16 +198,28 @@ h1 {
     width: 120px;
     height: 40px;
     border-radius: 30px;
-    background-color: white;
+    background-color: transparent;
     display: flex;
     justify-content: space-evenly;
+    border-color: white;
+    border: 2px solid white;
+
+}
+
+.button-div:hover  {
+    background-color: white;
+    
+}
+.button-block:hover {
+    color: black;
 }
 
 .button-block {
     text-align: center;
-    color: black;
+    color: white;
     margin: auto;
 }
+
 
 .first-line {
     width: 1000px;
