@@ -105,7 +105,7 @@ h1 {
 
 .second-section-text {
     width: 340px;
-    font-size: 12px;
+    font-size: 13px;
     color: #5A5454;
     text-align: center;
 }
@@ -116,8 +116,9 @@ h1 {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    height: 100px;
+    height: 110px;
     text-align: center;
+    width: 350px;
 }
 
 .div-block {
