@@ -13,6 +13,9 @@ header {
    
 }
 
+.nav-li {
+    color: #3D37F1;
+}
 .web-text {
     color: #3D37F1;
     font-weight: bolder;
